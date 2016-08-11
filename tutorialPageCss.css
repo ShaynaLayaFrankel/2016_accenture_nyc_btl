@@ -1,5 +1,13 @@
+body{
+	/*background-image: url("http://unisci24.com/data_images/wlls/24/252219-horizon.jpg");*/
+	background-image: url("https://images8.alphacoders.com/362/362845.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 #navbar{
 	padding-left: 25%;
+	background-color: black;
 }
 
 .box {
@@ -10,6 +18,7 @@
 
 table {
 	border-width:4px;
+	background-color: white;
 }
 
 #youtubeVid {
