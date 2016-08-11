@@ -1,0 +1,20 @@
+#navbar{
+	padding-left: 25%;
+}
+
+.box {
+	height:400px;
+	width:400px;
+	border-width:4px;
+}
+
+table {
+	border-width:4px;
+}
+
+#youtubeVid {
+	height:200px;
+	width:400px;
+	position:relative;
+	top:-50px;
+}
