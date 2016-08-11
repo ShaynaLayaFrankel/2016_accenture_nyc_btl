@@ -18,3 +18,13 @@ table {
 	position:relative;
 	top:-50px;
 }
+
+.btn{
+	background-color: #F43D0B;
+	border-color: black;
+	width: screen-width;
+    display: inline-block;
+    /*background-image: url("orange.jpg");*/
+    background-size: cover;
+    opacity: 1;
+}
