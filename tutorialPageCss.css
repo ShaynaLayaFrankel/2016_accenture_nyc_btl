@@ -36,4 +36,5 @@ table {
     /*background-image: url("orange.jpg");*/
     background-size: cover;
     opacity: 1;
+    color: black;
 }
