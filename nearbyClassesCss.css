@@ -45,9 +45,9 @@ div.col-sm-4 {
 }
 
 #message {
-  margin-top:40px;
+  margin-top:5px;
   font-size: 60px;
-  color: slategrey;
+  color: white;
   border-width: 10px;
   font-weight: bold;
   border-style:solid;
