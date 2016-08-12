@@ -15,11 +15,11 @@ body{
 	background-color: #F43D0B;
 	border-color: black;
 	width: screen-width;
-    display: inline-block;
-    /*background-image: url("orange.jpg");*/
-    background-size: cover;
-    opacity: 1;
-    color: black;
+  display: inline-block;
+  /*background-image: url("orange.jpg");*/
+  background-size: cover;
+  opacity: 1;
+  color: black;
 }
 
 #buttonText {
