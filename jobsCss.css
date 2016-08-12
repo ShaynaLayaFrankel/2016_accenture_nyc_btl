@@ -34,8 +34,8 @@ background-color: black;
 .internshipName {
    font-weight:bold;
    color: slategrey;
-   font-size:40px;
-   text-decoration: underline;
+   font-size:30px;
+   
    font-family: serif;
 }
 
@@ -45,14 +45,21 @@ background-color: black;
    font-family: serif;
 }
 
+.ageGroup {
+	text-decoration: overline;
+	font-size:35px;
+	font-family:serif;
+}
+
 table {
+	
 	margin-top:35px;
 	margin-left:45px;
 }
 
 h1 {
   font-size: 60px;
-  color: slategrey;
+  color: white;
   border-width: 10px;
   font-weight: bold;
   border-style:solid;
@@ -61,12 +68,14 @@ h1 {
 
 .description {
    font-family: serif;
-   color: #F43D0B;
+   color: #F43D0B ;
    font-size:30px;
 }
 
 .link {
 	font-family: serif;
-	color:indigo;
+	color:darkslateblue;
     font-size:30px;
+    font-weight:bold;
 }
+
