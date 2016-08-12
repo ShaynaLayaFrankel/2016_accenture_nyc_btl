@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head><!-- 
-<link rel=stylesheet href= "tutorialPageCss.css"> -->
+<head>
+<link rel=stylesheet href= "tutorialPageCss.css">
 <link rel=stylesheet href="questionAnswerCss.css"> 
 </head>
 	<title></title>
@@ -23,9 +23,12 @@
 					<button type="button" class="btn btn-default navbar-btn">Internships/Jobs</button></a>
 		</div>
 </nav>
-<div id="commentForm"">
-<form method='post'>
-  NAME: <input type='text' name='name' id='name' /><br />
+<div id=formForm>
+
+<form method='post' id=form>
+
+  <FONT COLOR=#F0F9F9</FONT> 
+  Name: <input type='text' name='name' id='name' /><br />
 
   Email: <input type='text' name='email' id='email' /><br />
 
@@ -36,8 +39,23 @@
 
   <input type='hidden' name='articleid' id='articleid' value='<? echo $_GET["id"]; ?>' />
 
-  <input type='submit' value='Submit' />  
+  <input type='button' value='Submit' onclick="displayComment()" />  
 </form>
+
+	<script>
+		// */ go to the html ad get text> take the text add a new element(div) to the html> inner html*/
+		function displayComment() {
+		    var x = document.getElementById("name").value;
+		    var y = document.getElementById("comment").value;
+		}
+	</script>
+	<button onclick="myFunction()">Click Me!</button>
 </div>
+
+<div id="container">
+<button id="FAQ" name="FAQ">
+</div>
+<div id="nameCommentHolder"></div>
+
 </body>
 </html>
