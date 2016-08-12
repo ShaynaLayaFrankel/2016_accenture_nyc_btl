@@ -1,0 +1,15 @@
+
+form {
+    margin-top: 100px;
+    float:left;
+    padding-left: 100px
+}
+#container{
+	margin:100px;
+	margin-left:35%;
+    background-color: orange;
+	height:600px;
+	width:600px;
+	float:center;
+
+}
