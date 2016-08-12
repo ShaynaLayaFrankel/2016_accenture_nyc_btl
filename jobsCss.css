@@ -33,14 +33,14 @@ background-color: black;
 
 .internshipName {
    font-weight:bold;
-   color: slategrey;
+   color: #F43D0B;
    font-size:40px;
    text-decoration: underline;
    font-family: serif;
 }
 
 .location {
-   color: white;
+   color: darkgrey;
    font-size:30px;
    font-family: serif;
 }
@@ -52,7 +52,7 @@ table {
 
 h1 {
   font-size: 60px;
-  color: slategrey;
+  color: white;
   border-width: 10px;
   font-weight: bold;
   border-style:solid;
@@ -61,12 +61,16 @@ h1 {
 
 .description {
    font-family: serif;
-   color: #F43D0B;
+   color: slategrey;
    font-size:30px;
 }
 
 .link {
 	font-family: serif;
-	color:indigo;
+	color:grey;
     font-size:30px;
 }
+/*
+td {
+  background-color: white;
+}*/
