@@ -21,10 +21,15 @@ table {
 	background-color: white;
 }
 
+#thumb{
+	height: 200px;
+	width: 400px;
+}
+
 #youtubeVid {
 	height:200px;
 	width:400px;
-	position:relative;
+	position: relative;
 	top:-50px;
 }
 
