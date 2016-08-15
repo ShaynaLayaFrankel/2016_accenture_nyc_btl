@@ -1,0 +1,79 @@
+body{
+	/*background-image: url("http://unisci24.com/data_images/wlls/24/252219-horizon.jpg");*/
+	background-image: url("https://images8.alphacoders.com/362/362845.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+
+.btn{
+	background-color: #F43D0B;
+	border-color: black;
+	width: screen-width;
+  display: inline-block;
+  /*background-image: url("orange.jpg");*/
+  background-size: cover;
+  opacity: 1;
+  color: black;
+}
+
+#buttonText {
+	font-family: Lora;
+	font-size: 60px;
+	display: inline-block;
+	opacity: 1;
+}
+
+#navbar{
+padding-left: 25%;
+background-color: black;
+}
+
+.internshipName {
+   font-weight:bold;
+   color: slategrey;
+   font-size:30px;
+   font-family: serif;
+}
+
+.location {
+   color: darkgrey;
+   font-size:30px;
+   font-family: serif;
+}
+
+.ageGroup {
+	text-decoration: overline;
+	font-size:35px;
+	font-family:serif;
+}
+
+table {
+	
+	margin-top:35px;
+	margin-left:45px;
+}
+
+h1 {
+  font-size: 60px;
+  color: white;
+  border-width: 10px;
+  font-weight: bold;
+  border-style:solid;
+  font-family: serif;
+}
+
+.description {
+   font-family: serif;
+   color: #F43D0B ;
+   font-size:30px;
+}
+
+.link {
+	font-family: serif;
+	color:darkslateblue;
+  font-size:30px;
+  font-weight:bold;
+}
