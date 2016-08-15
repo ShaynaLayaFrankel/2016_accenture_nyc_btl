@@ -97,6 +97,11 @@ div.transbox p {
     opacity: 1
 }
 
+#logo{
+  width: 100px;
+  height: 100px;
+}
+
 
 
 /* set div width to (screen width)-50 and center */
