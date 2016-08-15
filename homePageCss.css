@@ -10,7 +10,7 @@ p{
 	font-size: 100px;
 	text-align: center;
 	color: #F43D0B;
-	margin-top: 10px;
+	margin-top: 0px;
 }
 
 div.homeTiles{
@@ -55,6 +55,11 @@ div.transbox p {
 	text-align: center;
     color: black;
     opacity: 1
+}
+
+#logo{
+	width: 100px;
+	height: 100px;
 }
 
 
