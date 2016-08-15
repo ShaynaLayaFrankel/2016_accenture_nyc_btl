@@ -41,10 +41,11 @@
 
   Comment:<br />
   <textarea name='comment' id='comment' ></textarea><br />
+<!-- type='hidden' -->
+<!-- value='<? echo $_GET["id"]; ?>' -->
+<!--   <input name='articleid' id='articleid' /> -->
 
-  <input type='hidden' name='articleid' id='articleid' value='<? echo $_GET["id"]; ?>' />
-
-  <input type='button' value='Submit' onclick="displayComment()" />  
+  <input type='button' class=btn value='Submit' onclick="displayComment()" />  
 </form>
 
 	<script>
@@ -58,7 +59,7 @@
 		}
 
 	</script>
-	<button onclick="displayComment()">Click Me!</button>
+<!-- 	<button onclick="displayComment()">Click Me!</button> -->
 
 	
 
