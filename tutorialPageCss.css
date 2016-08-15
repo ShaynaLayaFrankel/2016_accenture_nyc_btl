@@ -38,3 +38,8 @@ table {
     opacity: 1;
     color: black;
 }
+
+#logo{
+  width: 100px;
+  height: 100px;
+}
