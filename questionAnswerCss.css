@@ -1,8 +1,8 @@
 body{
-	/*background-image: url("http://unisci24.com/data_images/wlls/24/252219-horizon.jpg");*/
 	background-image: url("https://images8.alphacoders.com/362/362845.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+
 }
 
 form {
@@ -11,32 +11,46 @@ form {
     padding-left: 100px
 }
 
-#navbar{
-	padding-left: 25%;
-	background-color: black;
+div#firstIndex{
+    position:absolute;
+    background-color:blue;
+    z-index:initial;
 }
-
-#container{
+#firstIndex{
 	margin:100px;
 	margin-left:35%;
     background-color: orange;
 	height:600px;
 	width:600px;
 	float:center;
+
 }
 
-.btn{
-	background-color: #F43D0B;
-	border-color: black;
-	width: screen-width;
-    display: inline-block;
-    /*background-image: url("orange.jpg");*/
-    background-size: cover;
-    opacity: 1;
-    color: black;
+#secondIndex{
+	margin:100px;
+	margin-left:35%;
+    background-color: orange;
+	height:350px;
+	width:600px;
+	float:center;
+}
+
+#thirdIndex{
+	margin:-100px;
+	margin-left:-45%;
+    background-color: white;
+	height:100px;
+	width:600px;
+	float:center;
+}
+
+#navbar{
+	padding-left: 25%;
+	background-color: black;
+
 }
 
 #logo{
-  width: 100px;
-  height: 100px;
+	width:100px;
+	height:100px;
 }
