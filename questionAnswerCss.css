@@ -1,9 +1,21 @@
+body{
+	/*background-image: url("http://unisci24.com/data_images/wlls/24/252219-horizon.jpg");*/
+	background-image: url("https://images8.alphacoders.com/362/362845.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 
 form {
     margin-top: 100px;
     float:left;
     padding-left: 100px
 }
+
+#navbar{
+	padding-left: 25%;
+	background-color: black;
+}
+
 #container{
 	margin:100px;
 	margin-left:35%;
@@ -11,7 +23,17 @@ form {
 	height:600px;
 	width:600px;
 	float:center;
+}
 
+.btn{
+	background-color: #F43D0B;
+	border-color: black;
+	width: screen-width;
+    display: inline-block;
+    /*background-image: url("orange.jpg");*/
+    background-size: cover;
+    opacity: 1;
+    color: black;
 }
 
 #logo{
