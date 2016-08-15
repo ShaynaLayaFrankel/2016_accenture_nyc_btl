@@ -6,10 +6,12 @@ body{
 	background-color: black;
 }
 
+
 form {
     margin-top: 100px;
     float:left;
     padding-left: 100px
+
 }
 
 div#firstIndex{
@@ -42,20 +44,27 @@ div#firstIndex{
 #secondIndex{
 	/*	margin:-100px;*/
 		margin-top:10px;
-	    background-color: purple;
+	    background-color: #F43D0B;
 		height:80px;
 		width:300px;
 		float:left;
 }
 
+#formForm{
+	background-color: orange;
+}
 #thirdIndex{
 	/*	margin:100px;*/
 	/*margin-top:100px;*/
-    background-color: red;
+    background-color: #F43D0B;
     margin-top: 10px;
 	height:350px;
 	width:600px;
 	float:left;
+}
+
+#name, #comment{
+	color:black;
 }
 
 #navbar{
