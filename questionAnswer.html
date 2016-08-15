@@ -52,9 +52,16 @@
 		function displayComment() {
 		    var x = document.getElementById("name").value;
 		    var y = document.getElementById("comment").value;
+		    document.getElementById('secondIndex').innerHTML = x;
+		    document.getElementById('thirdIndex').innerHTML = y;
+
 		}
+
 	</script>
-	<button onclick="myFunction()">Click Me!</button>
+	<button onclick="displayComment()">Click Me!</button>
+
+	
+
 </div>
 
 <div id="firstIndex">
