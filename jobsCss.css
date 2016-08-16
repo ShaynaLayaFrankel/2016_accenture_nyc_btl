@@ -5,7 +5,11 @@ body{
 	background-size: cover;
 }
 
-
+table{
+  background-color:#cc5500;
+  text-align: left;
+  
+}
 
 
 .btn{
@@ -36,22 +40,24 @@ background-color: black;
    color: slategrey;
    font-size:30px;
    font-family: serif;
+   margin-left: 30px;
 }
 
 .location {
    color: darkgrey;
    font-size:30px;
    font-family: serif;
+   margin-left: 30px;
 }
 
 .ageGroup {
 	text-decoration: overline;
 	font-size:35px;
 	font-family:serif;
+  margin-left: 30px;
 }
 
 table {
-	
 	margin-top:35px;
 	margin-left:45px;
 }
@@ -67,8 +73,10 @@ h1 {
 
 .description {
    font-family: serif;
-   color: #F43D0B ;
+   color: black;
    font-size:30px;
+   margin-left: 30px;
+   margin-right: 30px;
 }
 
 .link {
@@ -76,6 +84,7 @@ h1 {
 	color:darkslateblue;
   font-size:30px;
   font-weight:bold;
+  margin-left: 30px;
 }
 
 #logo{
