@@ -20,6 +20,16 @@ div#firstIndex{
     z-index:initial;
 }
 
+#submitBtn{
+	background-color: transparent;
+	color: transparent;
+	border-color: transparent;
+}
+
+#submitBtn:hover, #submitBtn:active{
+	color: white;
+}
+
 .btn{
 	background-color: #F43D0B;
 	border-color: black;
