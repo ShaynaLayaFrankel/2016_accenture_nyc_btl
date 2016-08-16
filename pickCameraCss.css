@@ -29,8 +29,11 @@
   font-weight: bold;
   border-style:solid;
   font-family: serif;
-}  
+}
 
+#messageLink{
+  color: white;
+}
 body{
 	/*background-image: url("http://unisci24.com/data_images/wlls/24/252219-horizon.jpg");*/
 	background-image: url("https://images8.alphacoders.com/362/362845.jpg");
