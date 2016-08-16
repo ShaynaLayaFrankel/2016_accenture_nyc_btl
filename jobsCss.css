@@ -6,7 +6,7 @@ body{
 }
 
 table{
-  background-color:#cc5500;
+  background-color:white;
   text-align: left;
   
 }
@@ -55,6 +55,7 @@ background-color: black;
 	font-size:35px;
 	font-family:serif;
   margin-left: 30px;
+  padding-top: 15px;
 }
 
 table {
