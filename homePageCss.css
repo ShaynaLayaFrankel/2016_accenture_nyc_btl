@@ -48,8 +48,27 @@ button{
 	opacity: 1;
 }
 
+#homeTileLeftTop {
+	float: left;
+}
+
+#homeTileCenter {
+	margin-left: 7px;
+	float: center;
+}
+
+#homeTileRightTop {
+	float: right;
+}
+
+#homeTileLeftBottom {
+	margin-top: 7px;
+	float: left;
+}
+
 #homeTileRightBottom {
-	margin-left: 455px;
+	margin-top: 7px;
+	float: right;
 }
 
 div.background {
